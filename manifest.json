@@ -1,6 +1,6 @@
 {
-    "name": "vijaystudycircle_pwa",
-    "short_name": "vijaystudycircle_pwa",
+    "name": "vijay_study_circle",
+    "short_name": "vijay_study_circle",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
